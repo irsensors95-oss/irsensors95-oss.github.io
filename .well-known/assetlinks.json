@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.spacelab.sciencesandbox",
+        "sha256_cert_fingerprints": ["2C:03:0A:7B:7C:5E:72:B9:F4:20:08:7C:5A:BD:3C:A8:E0:73:06:FA:DD:BD:19:70:0C:73:61:EB:45:9B:DB:13"]
+      }
+    }]
